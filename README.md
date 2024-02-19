@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/irtuuul355ia0umj?svg=true)](https://ci.appveyor.com/project/mosius27/ahj-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/ovymnjhlqvjyoxla0f2j?svg=true)](https://ci.appveyor.com/project/mosius27/ahj-dom)
 
 [GitHub Pages](https://mosius27.github.io/ahj-dom/)
 
